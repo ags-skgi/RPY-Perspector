@@ -26,15 +26,13 @@ https://youtu.be/DvIXj57UrYQ
 | Arduino (Uno/Nano) | Serial bridge to Python | USB |
 
 ## Repository structure
-rpy-perspector/
-├── firmware/
-│   └── dual_encoder_4cap.ino   # Flash this to the Arduino
-├── src/
-│   └── onshape_control.py      # Run this on your computer
-├── hardware/
-│   └── wiring_notes.md
-└── demo/
-└── (photos + video link)
+    rpy-perspector/
+    ├── firmware/
+    │   └── dual_encoder_4cap.ino
+    ├── src/
+    │   └── onshape_control.py
+    ├── hardware/
+    └── demo/
 
 
 ## Installation
